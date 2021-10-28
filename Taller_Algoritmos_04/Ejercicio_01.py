@@ -24,5 +24,3 @@ D = N - K + 1
 for i in range (D):
     print(N) # Salidas
     N -= 1
-
-

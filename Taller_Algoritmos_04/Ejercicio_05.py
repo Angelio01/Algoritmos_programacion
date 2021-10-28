@@ -25,10 +25,4 @@ while True:
         print(N)
 # Salidas
 print("\nEl numero de terminos necesarios es:",N)
-print("El resultado de la sumatoria cuando N es:",N,"\nEs:",B,"\n")
-
-
-         
-        
-         
-        
+print("El resultado de la sumatoria cuando N es:",N,"\nEs:",B,"\n")   

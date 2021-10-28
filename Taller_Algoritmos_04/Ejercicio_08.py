@@ -19,4 +19,3 @@ while A != 2002:
 
 # Salida
 print("Acesso Permitido")
-    

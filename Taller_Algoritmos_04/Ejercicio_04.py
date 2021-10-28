@@ -18,4 +18,3 @@ for i in range(12):
 # Salidas
 print("\nEl término doceavo en la suceción es:",A) 
 print("La suma de los primeros 12 numeros de la sucesión es:",B,"\n") 
-    

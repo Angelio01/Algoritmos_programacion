@@ -33,4 +33,3 @@ print("MUITO OBRIGADO")
 print("Alcool:",Alcool)
 print("Gasolina:",Gasolina)
 print("Diesel:",Diesel)
-    

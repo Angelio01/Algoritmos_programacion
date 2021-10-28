@@ -20,4 +20,3 @@ while True:
     else: 
         C = M * X
     print(C) # Salidas
-    

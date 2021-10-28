@@ -15,5 +15,3 @@ for i in range(50):
         A += 2
     else: 
         A += 2
-
-    
